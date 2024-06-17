@@ -38,7 +38,7 @@ const ProgressForm: React.FC = () => {
       onSubmit={handleSubmit}
       style={{ padding: '20px', maxWidth: '400px', margin: '0 auto' }}
     >
-      <h2>プログレスバーが入る</h2>
+      {/* <h2>プログレスバーが入る</h2> */}
       <p>あてはまるものを選択してください。</p>
       <div>
         <label>
